@@ -1,0 +1,33 @@
+[2025-03-11 15:25:14,359::evaluate::INFO] Load generated data done! 100 examples in total.
+[2025-03-12 16:14:51,564::evaluate::INFO] Evaluate done! 10000 samples in total.
+[2025-03-12 16:14:51,564::evaluate::INFO] mol_stable:	0.1685
+[2025-03-12 16:14:51,564::evaluate::INFO] atm_stable:	0.8434
+[2025-03-12 16:14:51,564::evaluate::INFO] recon_success:	0.9905
+[2025-03-12 16:14:51,564::evaluate::INFO] eval_success:	0.9231
+[2025-03-12 16:14:51,565::evaluate::INFO] complete:	0.9331
+[2025-03-12 16:14:51,627::evaluate::INFO] JS bond distances of complete mols: 
+[2025-03-12 16:14:51,627::evaluate::INFO] JSD_6-6|4:	0.3065
+[2025-03-12 16:14:51,627::evaluate::INFO] JSD_6-6|1:	0.4143
+[2025-03-12 16:14:51,628::evaluate::INFO] JSD_6-8|1:	0.3367
+[2025-03-12 16:14:51,628::evaluate::INFO] JSD_6-7|1:	0.2637
+[2025-03-12 16:14:51,628::evaluate::INFO] JSD_6-8|2:	0.3776
+[2025-03-12 16:14:51,628::evaluate::INFO] JSD_6-6|2:	0.2133
+[2025-03-12 16:14:51,628::evaluate::INFO] JSD_6-7|4:	0.1953
+[2025-03-12 16:14:51,628::evaluate::INFO] JSD_6-7|2:	0.2663
+[2025-03-12 16:14:52,180::evaluate::INFO] JSD_CC_2A:	0.2756
+[2025-03-12 16:14:52,181::evaluate::INFO] JSD_All_12A:	0.0810
+[2025-03-12 16:14:52,181::evaluate::INFO] Atom type JS: 0.0714
+[2025-03-12 16:14:52,620::evaluate::INFO] Number of reconstructed mols: 9905, complete mols: 9331, evaluated mols: 9231
+[2025-03-12 16:14:52,625::evaluate::INFO] QED:   Mean: 0.559 Median: 0.574
+[2025-03-12 16:14:52,626::evaluate::INFO] SA:    Mean: 0.568 Median: 0.570
+[2025-03-12 16:14:52,637::evaluate::INFO] Vina Score:  Mean: -7.444 Median: -7.992
+[2025-03-12 16:14:52,638::evaluate::INFO] Vina Min  :  Mean: -8.349 Median: -8.237
+[2025-03-12 16:14:52,643::evaluate::INFO] Vina Dock :  Mean: -8.843 Median: -8.890
+[2025-03-12 16:14:52,645::evaluate::INFO] ring size: 3 ratio: 0.000
+[2025-03-12 16:14:52,645::evaluate::INFO] ring size: 4 ratio: 0.042
+[2025-03-12 16:14:52,646::evaluate::INFO] ring size: 5 ratio: 0.594
+[2025-03-12 16:14:52,646::evaluate::INFO] ring size: 6 ratio: 0.834
+[2025-03-12 16:14:52,647::evaluate::INFO] ring size: 7 ratio: 0.402
+[2025-03-12 16:14:52,647::evaluate::INFO] ring size: 8 ratio: 0.142
+[2025-03-12 16:14:52,647::evaluate::INFO] ring size: 9 ratio: 0.054
+[2025-03-12 18:59:05,012::evaluation_overall::INFO] the num of results.pt is 1.
